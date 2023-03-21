@@ -1,6 +1,6 @@
 # Installation
 npx create-react-app project name
-#Development
+# Development
 VScode
-#Compile
+# Compile
 npm start
